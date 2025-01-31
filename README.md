@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Adarsh-Tiwari1
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Adarsh-Tiwari
+- 👀 I’m interested in learn new skills 
 - 🌱 I’m currently learning Java Full-Stack Developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adarshrewa46@gmail.com
